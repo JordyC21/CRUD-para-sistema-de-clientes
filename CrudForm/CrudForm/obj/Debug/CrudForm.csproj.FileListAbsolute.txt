@@ -1,0 +1,11 @@
+C:\Users\matri\OneDrive\Documentos\PROGRAMAS VISUAL STUDIO\CrudForm\CrudForm\bin\Debug\CrudForm.exe.config
+C:\Users\matri\OneDrive\Documentos\PROGRAMAS VISUAL STUDIO\CrudForm\CrudForm\bin\Debug\CrudForm.exe
+C:\Users\matri\OneDrive\Documentos\PROGRAMAS VISUAL STUDIO\CrudForm\CrudForm\bin\Debug\CrudForm.pdb
+C:\Users\matri\OneDrive\Documentos\PROGRAMAS VISUAL STUDIO\CrudForm\CrudForm\obj\Debug\CrudForm.csproj.AssemblyReference.cache
+C:\Users\matri\OneDrive\Documentos\PROGRAMAS VISUAL STUDIO\CrudForm\CrudForm\obj\Debug\CrudForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\matri\OneDrive\Documentos\PROGRAMAS VISUAL STUDIO\CrudForm\CrudForm\obj\Debug\CrudForm.Form1.resources
+C:\Users\matri\OneDrive\Documentos\PROGRAMAS VISUAL STUDIO\CrudForm\CrudForm\obj\Debug\CrudForm.Properties.Resources.resources
+C:\Users\matri\OneDrive\Documentos\PROGRAMAS VISUAL STUDIO\CrudForm\CrudForm\obj\Debug\CrudForm.csproj.GenerateResource.cache
+C:\Users\matri\OneDrive\Documentos\PROGRAMAS VISUAL STUDIO\CrudForm\CrudForm\obj\Debug\CrudForm.csproj.CoreCompileInputs.cache
+C:\Users\matri\OneDrive\Documentos\PROGRAMAS VISUAL STUDIO\CrudForm\CrudForm\obj\Debug\CrudForm.exe
+C:\Users\matri\OneDrive\Documentos\PROGRAMAS VISUAL STUDIO\CrudForm\CrudForm\obj\Debug\CrudForm.pdb
