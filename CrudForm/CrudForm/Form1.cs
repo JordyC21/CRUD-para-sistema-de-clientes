@@ -28,6 +28,15 @@ namespace CrudForm
             adapter.Fill(dt);
             dataGridView1.DataSource = dt;
         }
+
+        public void Limpiar()
+        {
+            id.Clear();
+            txtNombre.Clear();
+            txtApellido.Clear();
+            txtEdad.Clear();
+            txtSexo.Clear();
+        }
         private void Form1_Load(object sender, EventArgs e)
         {
             string Select = "Select * from cliente";
@@ -50,6 +59,7 @@ namespace CrudForm
                 MessageBox.Show("Registro modificado");
             }
             llenarTabla();
+            Limpiar();
             conexion.Close();
         }
 
@@ -71,6 +81,7 @@ namespace CrudForm
             comando.ExecuteNonQuery();
             MessageBox.Show("Insertado");
             llenarTabla();
+            Limpiar();
 
             conexion.Close();
 
@@ -110,6 +121,7 @@ namespace CrudForm
             comando.ExecuteNonQuery();
             MessageBox.Show("Se ha eliminado con exito");
             llenarTabla();
+            Limpiar();
             conexion.Close();         
         }
     }
